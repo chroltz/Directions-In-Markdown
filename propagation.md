@@ -1,8 +1,8 @@
 # __How to Propagate Plants__
 ---
-Propagation is growing a plant from a stem or root that has been cut from another plant. Cutting propagation is the easiest and most common method of propagating and almost every landscaping plant can be propagated using this method
+Propagation is growing a plant from a stem or root that has been cut from another plant. Cutting propagation is the easiest and most common method of propagating and almost every landscaping plant can be propagated using this method.
 
->WARNING: Scissors used incorrectly may cause harm to user, or cause damage to plant
+>WARNING: Scissors used incorrectly may cause harm to user, or cause damage to plant.
 ### Materials Needed:
 -  Scissors
 - An existing healthy plant
@@ -16,7 +16,7 @@ Propagation is growing a plant from a stem or root that has been cut from anothe
     - The best plant will have plenty of new growth.
     - The parent plant should be large enough that taking cuttings will not harm it.
 3. Find the best stems for cutting
-    - Choose green, non-woody stems for cutting
+    - Choose green, non-woody stems for cutting.
     - Look for a stem with a node, or a bump along the stem where a leaf or flower bud attaches.
      ![node](node.jpg)
 4. Take the plant cutting
@@ -29,7 +29,7 @@ Propagation is growing a plant from a stem or root that has been cut from anothe
     ![houseplant](houseplant.jpg)
     - Using water instead of planting them directly into soil will allow you to keep an eye on the root growth.
 7. Monitor the cutting
-    - Keep the container in a warm spot and indirect sunlight
+    - Keep the container in a warm spot and indirect sunlight.
     - Only change the water if begins to look dirty, or if a lot has evaporated.
     - Once plants have substaintial root system they are ready to be potted.
     - Transplant the cutting into its own pot with soil or into the ground.
